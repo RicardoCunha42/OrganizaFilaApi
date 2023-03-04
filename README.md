@@ -1,6 +1,6 @@
 # OrganizaFilaApi
 
-API feita em Java com Spring Boot que permite cadastrar pessoas e as ordena numa fila. Para utiliza-la, basta clonar este repositório e abrir em qualquer IDE num computador com Java 17. Ela responde a requisições HTTP, então é necessário utilizar Postman ou programa semelhante para faze-las.
+API feita em Java com Spring Boot que permite cadastrar pessoas e as ordena numa fila. Para utiliza-la, basta clonar este repositório e abrir em qualquer IDE num computador com Java 17. Ela responde a requisições HTTP, então é necessário utilizar Postman ou programa semelhante para faze-las. O Mysql está configurado no arquivo application.properties, na pasta de resources.
 
 #Mapeamento 
 "/pessoas"
